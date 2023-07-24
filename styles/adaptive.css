@@ -1,0 +1,164 @@
+@media only screen and (max-width: 1200px) {
+    .card {
+        width: 320px;
+        align-items: center;
+        border-radius: 20px ;
+        border: 1px solid  #89B5E9;
+        background-color: #ffffff;
+        padding: 10px;
+        margin: 181px 463px;
+    }
+    h1 {
+        font-family: OutfitBold, sans-serif;
+        font-size: 20px;
+        line-height: 25px;
+        margin: 30px 15px;
+        text-align: center;
+    }
+    .main-image {
+        max-width: 320px;
+        box-sizing: border-box;
+        border-radius: 10px;
+        align-items: center;
+    }
+    p {
+        font-size: 10px;
+        font-weight: 400;
+        color: #747379;
+        margin: 20px 15px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 990px) {
+    .card {
+        width: 610px;
+        align-items: center;
+        border-radius: 30px ;
+        border: 1px solid  #89B5E9;
+        background-color: #ffffff;
+        padding: 10px;
+        margin: 151px 100px;
+    }
+    h1 {
+        font-family: OutfitBold, sans-serif;
+        font-size: 35px;
+        line-height: 35px;
+        margin: 30px 25px;
+        text-align: center;
+    }
+    .main-image {
+        max-width: 610px;
+        box-sizing: border-box;
+        border-radius: 40px;
+        align-items: center;
+    }
+    p {
+        font-size: 25px;
+        line-height: 30px;
+        font-weight: 500;
+        color: #747379;
+        margin: 20px 15px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .card {
+        width: 600px;
+        align-items: center;
+        border-radius: 30px ;
+        border: 1px solid  #89B5E9;
+        background-color: #ffffff;
+        padding: 10px;
+        margin: 145px 85px;
+    }
+    h1 {
+        font-family: OutfitBold, sans-serif;
+        font-size: 35px;
+        line-height: 35px;
+        margin: 25px 10px;
+        text-align: center;
+    }
+    .main-image {
+        max-width: 600px;
+        box-sizing: border-box;
+        border-radius: 20px;
+        align-items: center;
+    }
+    p {
+        font-size: 25px;
+        font-weight: 500;
+        color: #747379;
+        margin: 10px;
+        text-align: center;
+    }
+    .attribution {
+        font-family: OutfitBold, sans-serif;
+        font-size: 30px;
+        text-align: center;
+        margin-left: 85px;
+    }
+}
+@media only screen and (max-width: 550px) {
+    .card {
+        width: 400px;
+        align-items: center;
+        border-radius: 30px ;
+        border: 1px solid #90b9e7;
+        background-color: #ffffff;
+        padding: 10px;
+        margin: 50px 35px;
+    }
+    h1 {
+        font-family: OutfitBold, sans-serif;
+        font-size: 25px;
+        line-height: 30px;
+        margin: 25px 15px;
+        text-align: center;
+    }
+    .main-image {
+        max-width: 400px;
+        box-sizing: border-box;
+        border-radius: 40px;
+        align-items: center;
+    }
+    p {
+        font-size: 20px;
+        font-weight: 500;
+        color: #575659;
+        margin: 15px;
+        text-align: center;
+    }
+
+}
+@media only screen and (max-width: 412px) {
+    .card {
+        width: 310px;
+        align-items: center;
+        border-radius: 30px ;
+        border: 1px solid #90b9e7;
+        background-color: #ffffff;
+        padding: 10px;
+        margin: 100px 30px;
+    }
+    h1 {
+        font-family: OutfitBold, sans-serif;
+        font-size: 20px;
+        line-height: 25px;
+        margin: 25px 15px;
+        text-align: center;
+    }
+    .main-image {
+        max-width: 310px;
+        box-sizing: border-box;
+        border-radius: 40px;
+        align-items: center;
+    }
+    p {
+        font-size: 16px;
+        font-weight: 500;
+        color: #575659;
+        margin: 15px;
+        text-align: center;
+    }
+
+}
